@@ -1,9 +1,9 @@
-## <div align="center">**LAZY GATEWAY - WALIX 3.x**</div>
+## <div align="center">**WAREN GATEWAY - CYBEROREN 3.x**</div>
 #### <div align="center">- **REST API AND WEBHOOK** -</div>
 
 #### **# GIT CLONE :**
 ```bash
-git clone https://github.com/ilsyaa/example-lazygateway.git
+git clone
 ```
 
 ### **# Example Body Array PHP**
