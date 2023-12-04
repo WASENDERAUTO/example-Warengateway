@@ -3,7 +3,7 @@
 
 #### **# GIT CLONE :**
 ```bash
-git clone
+git clone https://github.com/WASENDERAUTO/example-Warengateway.git
 ```
 
 ### **# Example Body Array PHP**
