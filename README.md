@@ -32,4 +32,3 @@ $body = array(
 
 #### **By :**
 - <a href="https://github.com/jxxzy">**JXXZY** </a>
-- <a href="https://velixs.com">**Velixs** </a>
